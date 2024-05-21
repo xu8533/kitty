@@ -1,15 +1,9 @@
-## kitty简介
-<p align="left">
-    <a href="https://github.com/olimorris/onedarkpro.nvim/issues"><img src="https://img.shields.io/github/issues/olimorris/onedarkpro.nvim?color=%23d19a66&style=for-the-badge"></a>
-<a herf="https://github.com/kovidgoyal/kitty"></kitty的github主页></a> 
-    [kitty的github主页](https://github.com/kovidgoyal/kitty)
-</p>
-<p align="left">
+### kitty简介
+
+[kitty的github主页](https://github.com/kovidgoyal/kitty)
 [kitty官方主页](https://sw.kovidgoyal.net/kitty/)
-</p>
-<p align="left">
 [kitty官方手册](https://sw.kovidgoyal.net/kitty/overview/)
-</p>
+
 
 <p align="left">
 kitty是一款基于GPU的快速的，功能丰富的，跨平台(支持linux, bsd, macos)的终端
