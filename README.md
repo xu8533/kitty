@@ -13,7 +13,9 @@ kitty支持所有现代终端特性，如Unicode, 真色彩，粗/斜字体，�
 kitty通过标签页和窗口可以同时运行多个程序。
 
 kitty的标签页和窗口组织结构如下：
-<./kitty-topology.png>
+<p align="center">
+<img src="https://github.com/xu8533/kitty/edit/master/kitty-topology.png"/>
+</p>
 
 ### 配置文件
 
