@@ -1,13 +1,19 @@
 ### kitty简介
+<p align="center">
 [kitty的github主页](https://github.com/kovidgoyal/kitty)
-
+</p>
+<p align="center">
 [kitty官方主页](https://sw.kovidgoyal.net/kitty/)
-
+</p>
+<p align="center">
 [kitty官方手册](https://sw.kovidgoyal.net/kitty/overview/)
+</p>
 
+<p>
 kitty是一款基于GPU的快速的，功能丰富的，跨平台(支持linux, bsd, macos)的终端
 kitty由C语言(核心性能部分)，python语言(UI部分)，go语言(命令行扩展，如kittens)混合编写而成
 kitty支持所有现代终端特性，如Unicode, 真色彩，粗/斜字体，文本格式化等
+</p>
 
 ### 标签页(tabs)和窗口(windows)
 kitty通过标签页和窗口可以同时运行多个程序。
