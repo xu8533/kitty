@@ -14,7 +14,7 @@ kitty通过标签页和窗口可以同时运行多个程序。
 
 kitty的标签页和窗口组织结构如下：
 <p align="center">
-<img src="https://github.com/xu8533/kitty/edit/master/kitty-topology.png"/>
+<img src="https://github.com/xu8533/kitty/kitty-topology.png"/>
 </p>
 
 ### 配置文件
