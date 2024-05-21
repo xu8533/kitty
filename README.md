@@ -1,7 +1,7 @@
 ## kitty简介
 <p align="left">
     <a href="https://github.com/olimorris/onedarkpro.nvim/issues"><img src="https://img.shields.io/github/issues/olimorris/onedarkpro.nvim?color=%23d19a66&style=for-the-badge"></a>
-<a herf="https://github.com/kovidgoyal/kitty">kitty的github主页</a> 
+<a herf="https://github.com/kovidgoyal/kitty"></kitty的github主页></a> 
     [kitty的github主页](https://github.com/kovidgoyal/kitty)
 </p>
 <p align="left">
